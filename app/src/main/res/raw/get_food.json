@@ -1,0 +1,903 @@
+{
+    "err_no": "0",
+    "err_msg": "",
+    "CATEGORY": [
+        {
+            "CATEGORY_NAME": "Foods",
+            "SUB_CATEGORY": [
+                {
+                    "CATEGORY_NAME": "Rice Meals",
+                    "ITEM": [
+                        {
+                            "plu": 417674.00,
+                            "descp": "CHICKEN X SAMBAL MATAH",
+                            "s_descp": "CHCKN SBL MATAH",
+                            "price": 18000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417671",
+                                    "descp_topping": "X SAMBAL MATAH",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417675.00,
+                            "descp": "CHICKEN X SAMBAL BAWANG",
+                            "s_descp": "CHCKN SBL BAWNG",
+                            "price": 18000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417672",
+                                    "descp_topping": "X SAMBAL BAWANG",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417676.00,
+                            "descp": "CHICKEN X SAMBAL KOREK",
+                            "s_descp": "CHCKN SBL KOREK",
+                            "price": 18000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417673",
+                                    "descp_topping": "X SAMBAL KOREK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422109.00,
+                            "descp": "DORI X SAMBAL MATAH",
+                            "s_descp": "DORI X SBL MTH",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417671",
+                                    "descp_topping": "X SAMBAL MATAH",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422110.00,
+                            "descp": "DORI X SAMBAL BAWANG",
+                            "s_descp": "DORI X SBL BWG",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417672",
+                                    "descp_topping": "X SAMBAL BAWANG",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422111.00,
+                            "descp": "DORI X SAMBAL KOREK",
+                            "s_descp": "DORI X SBL KRK",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417673",
+                                    "descp_topping": "X SAMBAL KOREK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422112.00,
+                            "descp": "X FISH N CHIPS",
+                            "s_descp": "X FISH N CHIPS",
+                            "price": 24000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422113.00,
+                            "descp": "BEEF X SAMBAL MATAH",
+                            "s_descp": "BEEF X SBL MTH",
+                            "price": 22000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417671",
+                                    "descp_topping": "X SAMBAL MATAH",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422114.00,
+                            "descp": "BEEF X SAMBAL BAWANG",
+                            "s_descp": "BEEF X SBL BWG",
+                            "price": 22000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417672",
+                                    "descp_topping": "X SAMBAL BAWANG",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422115.00,
+                            "descp": "BEEF X SAMBAL KOREK",
+                            "s_descp": "BEEF X SBL KRK",
+                            "price": 22000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417673",
+                                    "descp_topping": "X SAMBAL KOREK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                },
+                                {
+                                    "plu_topping": "417677",
+                                    "descp_topping": "X TELUR CEPLOK",
+                                    "price": 3500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422251.00,
+                            "descp": "X PAKET MAKAN 1",
+                            "s_descp": "X PAKET MAKAN 1",
+                            "price": 21500.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422252.00,
+                            "descp": "X PAKET MAKAN 2",
+                            "s_descp": "X PAKET MAKAN 2",
+                            "price": 23800.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422253.00,
+                            "descp": "X PAKET MAKAN 3",
+                            "s_descp": "X PAKET MAKAN 3",
+                            "price": 25000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        }
+                    ]
+                },
+                {
+                    "CATEGORY_NAME": "Noodles and Pasta",
+                    "ITEM": [
+                        {
+                            "plu": 417936.00,
+                            "descp": "X INDOMIE GRG TELUR",
+                            "s_descp": "INDOMI GRG TLR",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417679",
+                                    "descp_topping": "X CHICKEN POPCORN",
+                                    "price": 9500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417937.00,
+                            "descp": "X INDOMIE KUAH AYAM TELUR",
+                            "s_descp": "INDOMI AYM TLR",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417679",
+                                    "descp_topping": "X CHICKEN POPCORN",
+                                    "price": 9500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417938.00,
+                            "descp": "X INDOMIE KUAH KARI TELUR",
+                            "s_descp": "INDOMI KARI TLR",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": [
+                                {
+                                    "plu_topping": "417679",
+                                    "descp_topping": "X CHICKEN POPCORN",
+                                    "price": 9500.00,
+                                    "Disc": 0.00
+                                }
+                            ],
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 419628.00,
+                            "descp": "X SAMYANG HOT RAMEN",
+                            "s_descp": "SAMYANG HOT RMN",
+                            "price": 24000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 420922.00,
+                            "descp": "X SEBLAK INDOMIE",
+                            "s_descp": "X SEBLAK INDOMIE",
+                            "price": 16000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        }
+                    ]
+                },
+                {
+                    "CATEGORY_NAME": "Pastry",
+                    "ITEM": [
+                        {
+                            "plu": 417713.00,
+                            "descp": "X CHICKEN CROISSANT 80G",
+                            "s_descp": "CHICKEN CROISAN",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417714.00,
+                            "descp": "X VANILLA ROLL DANISH 60G",
+                            "s_descp": "VANILA ROL DNSH",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417715.00,
+                            "descp": "X CHEESE DANISH 65G",
+                            "s_descp": "CHEESE DANISH",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417716.00,
+                            "descp": "X PLAIN CROISSANT 50G",
+                            "s_descp": "PLAIN CROISANT",
+                            "price": 7000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417717.00,
+                            "descp": "X CHOCOLATE CROISSANT 55G",
+                            "s_descp": "CHOCO CROISANT",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417718.00,
+                            "descp": "X TUNA PUFF 65G",
+                            "s_descp": "TUNA PUFF",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417719.00,
+                            "descp": "X SRIKAYA TWIST 55G",
+                            "s_descp": "SRIKAYA TWIST",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        }
+                    ]
+                },
+                {
+                    "CATEGORY_NAME": "Snacks",
+                    "ITEM": [
+                        {
+                            "plu": 417334.00,
+                            "descp": "X FOODSTICK SOSIS BRATWURST",
+                            "s_descp": "FS SOSIS BRTWST",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 417335.00,
+                            "descp": "X FOODSTICK SOSIS MINI",
+                            "s_descp": "FS SOSIS MINIBW",
+                            "price": 7000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 418095.00,
+                            "descp": "X FOODSTICK CHICKEN DUMPLING",
+                            "s_descp": "FS CHIKN DMPLNG",
+                            "price": 7000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 418096.00,
+                            "descp": "X FOODSTICK SALMON BALL",
+                            "s_descp": "FS SALMON BALL",
+                            "price": 7000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 418097.00,
+                            "descp": "X FOODSTICK FRIED DIMSUM",
+                            "s_descp": "FS FRIED DIMSUM",
+                            "price": 7000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 418098.00,
+                            "descp": "X FOODSTICK CRAB NUGGET",
+                            "s_descp": "FS CRAB NUGGET",
+                            "price": 7000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 418099.00,
+                            "descp": "X FOODSTICK SHRIMP BALL",
+                            "s_descp": "FS SHRIMP BALL",
+                            "price": 7000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 418100.00,
+                            "descp": "X FOODSTICK OTAK-OTAK SINGAPORE",
+                            "s_descp": "FS OTAK SINGAPR",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 421911.00,
+                            "descp": "X PAKET CEMILAN 1",
+                            "s_descp": "X PAKET CML 1",
+                            "price": 25000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 421912.00,
+                            "descp": "X PAKET CEMILAN 2",
+                            "s_descp": "X PAKET CML 2",
+                            "price": 25000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 421913.00,
+                            "descp": "X PAKET CEMILAN 3",
+                            "s_descp": "X PAKET CML 3",
+                            "price": 25000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422161.00,
+                            "descp": "X CHEESY FRENCH FRIES",
+                            "s_descp": "X CHS FF",
+                            "price": 15000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 422162.00,
+                            "descp": "X CHEESY BRATWURST FRIES",
+                            "s_descp": "X CHS BRWST F",
+                            "price": 22000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        }
+                    ]
+                },
+                {
+                    "CATEGORY_NAME": "GoFood Only",
+                    "ITEM": [
+                        {
+                            "plu": 424488.00,
+                            "descp": "GF CHICKEN X SAMBAL MATAH",
+                            "s_descp": "CKN X SBL MTH",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424489.00,
+                            "descp": "GF CHICKEN X SAMBAL BAWANG",
+                            "s_descp": "CKN X SBL BWG",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424490.00,
+                            "descp": "GF CHICKEN X SAMBAL KOREK",
+                            "s_descp": "CKN X SBL KRK",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424491.00,
+                            "descp": "GF DORI X SAMBAL MATAH",
+                            "s_descp": "DORI X SBL MTAH",
+                            "price": 22000.00,
+                            "disc": 5500.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424492.00,
+                            "descp": "GF DORI X SAMBAL BAWANG",
+                            "s_descp": "DORI X SBL BWNG",
+                            "price": 22000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424493.00,
+                            "descp": "GF DORI X SAMBAL KOREK",
+                            "s_descp": "DORI X SBL KREK",
+                            "price": 22000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424494.00,
+                            "descp": "GF BEEF X SAMBAL MATAH",
+                            "s_descp": "BEEF X SBL MTAH",
+                            "price": 24000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424495.00,
+                            "descp": "GF BEEF X SAMBAL BAWANG",
+                            "s_descp": "BEEF X SBL BWNG",
+                            "price": 24000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424496.00,
+                            "descp": "GF BEEF X SAMBAL KOREK",
+                            "s_descp": "BEEF X SBL KREK",
+                            "price": 24000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424497.00,
+                            "descp": "GF X FISH N CHIPS",
+                            "s_descp": "X FISH N CHIP",
+                            "price": 26000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424498.00,
+                            "descp": "GF X SAMYANG HOT RAMEN",
+                            "s_descp": "X SAMYG HOT RMN",
+                            "price": 26000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424499.00,
+                            "descp": "GF X INDOMIE GRG TELUR",
+                            "s_descp": "X INDMIE GR TLR",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424500.00,
+                            "descp": "GF X INDOMIE KUAH AYAM TELUR",
+                            "s_descp": "X MIE KH AY TLR",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424501.00,
+                            "descp": "GF X INDOMIE KUAH KARI TELUR",
+                            "s_descp": "X MIE KH KR TLR",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424502.00,
+                            "descp": "GF X CHEESY FRENCH FRIES",
+                            "s_descp": "X CHEESY FF",
+                            "price": 16000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424503.00,
+                            "descp": "GF X CHEESY BRATWURST FRIES",
+                            "s_descp": "X CHS BW FRIES",
+                            "price": 24000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424504.00,
+                            "descp": "GF X FOODSTICK SOSIS BWURST",
+                            "s_descp": "X FS SOSIS BW",
+                            "price": 13000.00,
+                            "disc": 3300.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424505.00,
+                            "descp": "GF X FOODSTICK SOSIS MINI",
+                            "s_descp": "X FS SOSIS MN",
+                            "price": 8000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424506.00,
+                            "descp": "GF X FOODSTICK OTAK SINGAPORE",
+                            "s_descp": "X FS OTAK SGA",
+                            "price": 13000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424507.00,
+                            "descp": "GF X FOODSTICK FRIED DIMSUM",
+                            "s_descp": "X FS FR DIMSUM",
+                            "price": 8000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424508.00,
+                            "descp": "GF X FOODSTICK SALMON BALL",
+                            "s_descp": "X FS SLMN BALL",
+                            "price": 8000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424509.00,
+                            "descp": "GF X FOODSTICK SHRIMP BALL",
+                            "s_descp": "X FS SRMP BALL",
+                            "price": 8000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424510.00,
+                            "descp": "GF X FOODSTICK CRAB NUGGET",
+                            "s_descp": "X FS CRAB NGT",
+                            "price": 8000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424511.00,
+                            "descp": "GF X FOODSTICK CKN DUMPLING",
+                            "s_descp": "X FS CKN DMPL",
+                            "price": 8000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424512.00,
+                            "descp": "GF X CHICKEN CROISSANT 80G",
+                            "s_descp": "X CKN CROIS80G",
+                            "price": 14000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424513.00,
+                            "descp": "GF X VANILLA ROLL DANISH 60G",
+                            "s_descp": "X VNL DNS 60G",
+                            "price": 10000.00,
+                            "disc": 2500.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424514.00,
+                            "descp": "GF X CHEESE DANISH 65G",
+                            "s_descp": "X CHS DNS 65G",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424515.00,
+                            "descp": "GF X PLAIN CROISSANT 50G",
+                            "s_descp": "X PLN CROIS 50G",
+                            "price": 8000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424516.00,
+                            "descp": "GF X CHOCOLATE CROISSANT 55G",
+                            "s_descp": "X CHO CROIS 55G",
+                            "price": 12000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424517.00,
+                            "descp": "GF X TUNA PUFF 65G",
+                            "s_descp": "X TUNA PUFF 65G",
+                            "price": 14000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424518.00,
+                            "descp": "GF X SRIKAYA TWIST 55G",
+                            "s_descp": "X SRKY TWS 55G",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424519.00,
+                            "descp": "GF X TELUR CEPLOK",
+                            "s_descp": "X TELUR CEPLOK",
+                            "price": 5000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424520.00,
+                            "descp": "GF X NASI PUTIH",
+                            "s_descp": "X NASI PUTIH",
+                            "price": 5000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424521.00,
+                            "descp": "GF X CHICKEN POPCORN",
+                            "s_descp": "X CKN POPCORN",
+                            "price": 10000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424522.00,
+                            "descp": "GF X SAMBAL MATAH",
+                            "s_descp": "X SAMBAL MATAH",
+                            "price": 5000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424523.00,
+                            "descp": "GF X SAMBAL BAWANG",
+                            "s_descp": "X SBL BWG",
+                            "price": 5000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424524.00,
+                            "descp": "GF X SAMBAL KOREK",
+                            "s_descp": "X SAMBAL KOREK",
+                            "price": 5000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424525.00,
+                            "descp": "GF X PAKET CEMILAN 1",
+                            "s_descp": "X PKT CEMIL 1",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424526.00,
+                            "descp": "GF X PAKET CEMILAN 2",
+                            "s_descp": "X PKT CEMIL 2",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424527.00,
+                            "descp": "GF X PAKET CEMILAN 3",
+                            "s_descp": "X PKT CEMIL 3",
+                            "price": 20000.00,
+                            "disc": 0.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424528.00,
+                            "descp": "GF X PAKET MAKAN 1",
+                            "s_descp": "X PKT MAKAN 1",
+                            "price": 27500.00,
+                            "disc": 2000.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424529.00,
+                            "descp": "GF X PAKET MAKAN 2",
+                            "s_descp": "X PKT MAKAN 2",
+                            "price": 35000.00,
+                            "disc": 7500.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        },
+                        {
+                            "plu": 424530.00,
+                            "descp": "GF X PAKET MAKAN 3",
+                            "s_descp": "X PKT MAKAN 3",
+                            "price": 35000.00,
+                            "disc": 5500.00,
+                            "TOPPING": null,
+                            "VARIANT": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
